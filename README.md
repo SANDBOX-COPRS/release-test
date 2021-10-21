@@ -42,4 +42,7 @@ password = slqkj{|#àD}
 
 Test auto release with [GitHub Automatic Releases](https://github.com/marketplace/actions/automatic-releases)
 
+# CHANGELOG.md
+
+All changes are written in the CHANGELOG.md file.
 
