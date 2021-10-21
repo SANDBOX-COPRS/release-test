@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0-rc3] - 2021-10-21
+### Fixed
+- Typo in .github/workflows/tagged-release.yml
+
 ## [1.0.0-rc2] - 2021-10-21
 ### Changed
 - Added CHANGELOG.md file in the release file
