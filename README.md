@@ -35,7 +35,7 @@ Technicals explantations can be found on [this file](technical_points.md)
 
 # Test GitGuardian 
 
-username = avlkj#qlskdj#9?
+username = avlkj#qlskdj#9?  
 password = slqkj{|#àD}
 
 # Test release
