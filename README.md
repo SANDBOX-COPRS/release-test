@@ -40,6 +40,6 @@ password = slqkj{|#àD}
 
 # Test release
 
-Test auto release with (GitHub Automatic Releases|https://github.com/marketplace/actions/automatic-releases)
+Test auto release with [GitHub Automatic Releases](https://github.com/marketplace/actions/automatic-releases)
 
 
